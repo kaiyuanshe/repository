@@ -9,9 +9,10 @@
 
 ## Members
 
-We have a [members](members) directory, each member could create a file named by his/her github account 
+We have a [members](members) directory, each member could create a directory named by his/her github account 
 under the `members` directory.
 All the detailed introduction could be put under his/her own directory. 
+We provide a [template](members/template) for reference.
 
 ## How to add your repository
 
