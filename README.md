@@ -1,5 +1,6 @@
 # Project list of Kaiyuanshe members
 
+* [cube-ui](https://github.com/didi/cube-ui)
 * [dragonfly](https://github.com/alibaba/dragonfly)
 * [GoodERP](https://github.com/osbzr/gooderp_addons)
 * [learn-with-open-source](https://github.com/zhuangbiaowei/learn-with-open-source)
@@ -18,8 +19,8 @@ We provide a [template](members/template) for reference.
 
 By open a [PR](github.com/kaiyuanshe/pulls)
 - fork this project
-- add a `members/yourself` directory and add all the logo and documents user that
-- append a summary to the project list at the beginning of this file
+- add a `members/yourself` directory and add all the logo and documents under it
+- append a summary to the project list at the beginning of this file in ascending order
 ```
 * [yourproject](project address)
 ```
