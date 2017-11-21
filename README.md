@@ -1,4 +1,4 @@
-# Project list of Kaiyuanshe members
+# 开源社成员项目列表
 
 * [cube-ui](https://github.com/didi/cube-ui)
 * [dragonfly](https://github.com/alibaba/dragonfly)
@@ -8,28 +8,26 @@
 * [neo-project](https://github.com/neo-project)
 * [pouch](https://github.com/alibaba/pouch)
 
-## Members
+## 成员目录
 
-We have a [members](members) directory, each member could create a directory named by his/her github account 
-under the `members` directory.
-All the detailed introduction could be put under his/her own directory. 
-We provide a [template](members/template) for reference.
+开源社成员可以在 [成员](members) 目录下面创建一个自己的目录（建议以自己github账号名命名），
+所有关于成员的介绍、成员项目的介绍都可以放到该目录下。
+目录的内容可以参考[模板](members/template) .
 
-## How to add your repository
+## 如何添加自己的项目
 
-By open a [PR](github.com/kaiyuanshe/pulls)
-- fork this project
-- add a `members/yourself` directory and add all the logo and documents under it
-- append a summary to the project list at the beginning of this file in ascending order
+**提交[PR](https://github.com/kaiyuanshe/pulls)**
+- fork 本项目
+- 创建一个`members/yourself`目录并把图片、文档放到里面
+- 把项目的简要信息按照字母顺序排列添加到本文件开头的项目列表
 ```
-* [yourproject](project address)
+* [你的项目名](你的项目地址)
 ```
-- create a PR
+- 提交 PR
 
-We need to have better rule to organize and display all members' repositories in this `README.md`,
-so any suggestion is welcomed. 
+*我们需要更好的模板、更好的项目展示方式，欢迎各种建议*
 
-## How to maintain
+## 如何维护
 
-All maintainers should follow this [GUILD](MAINTAINERS_GUILD.md), a maintainer role is gained by contribution.
-The initial maintainers are Kuaiyuanshe's members of the council.
+维护者应当遵循[维护指南](MAINTAINERS_GUIDE.md),维护者的角色通过项目贡献完成。
+初始的维护者来自开源社理事会。
