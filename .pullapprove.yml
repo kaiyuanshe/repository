@@ -3,8 +3,6 @@ approve_regex: ^LGTM
 reject_regex: ^Rejected
 reset_on_push: true
 author_approval: ignored
-signed_off_by:
-  required: true
 reviewers:
   teams:
   - repository
